@@ -1,6 +1,6 @@
-### I'm Thomas Pl&uuml;ss
+### I'm Thomas Pl&uuml;ss from Switzerland
 
-Following some stats of my GitHub work:
+Following some stats of my life at GitHub:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1stthomas&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
