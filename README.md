@@ -15,6 +15,14 @@ Following some stats of my life at GitHub:
 [![trophy](https://github-profile-trophy.vercel.app/?username=1stthomas)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
+Some Links:
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+https://stackoverflow.com/questions/72175416/how-can-i-edit-the-read-me-file-on-github
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+https://github.com/ryo-ma/github-profile-trophy
+-->
+
+<!--
 **1stthomas/1stthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
