@@ -8,7 +8,9 @@ Following some stats of my GitHub work:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=1stthomas&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
 -->
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1stthomas&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/1stthomas/github-readme-stats)
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=1stthomas)](https://github.com/ryo-ma/github-profile-trophy)
 
