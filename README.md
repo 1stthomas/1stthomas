@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm Thomas Pl&uuml;ss
+
+Following some stats of my GitHub work:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=1stthomas)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **1stthomas/1stthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
