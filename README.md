@@ -2,6 +2,8 @@
 
 Following some stats of my GitHub work:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1stthomas&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=1stthomas)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
