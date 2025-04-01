@@ -1,4 +1,4 @@
-### I'm Thomas Pl&uuml;ss from Switzerland
+### I'm Thomas from Switzerland
 
 <!--
 **1stthomas/1stthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
